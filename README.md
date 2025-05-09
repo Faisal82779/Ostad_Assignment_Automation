@@ -15,13 +15,13 @@ Automated testing project for [SauceDemo](https://www.saucedemo.com/) using WebD
 
 ## 📁 Test Scenarios
 
-### 🧪 Q1: Locked Out User Validation (20 Marks)
+### 🧪 Q1: Locked Out User Validation...👍
 - Login with `locked_out_user`
 - Validate error message display
 
 ---
 
-### 🛒 Q2: Standard User Full Purchase Flow (50 Marks)
+### 🛒 Q2: Standard User Full Purchase Flow... 👍
 - Login with `standard_user`
 - Reset app state
 - Add 3 products to cart
@@ -33,7 +33,7 @@ Automated testing project for [SauceDemo](https://www.saucedemo.com/) using WebD
 
 ---
 
-### ⚙️ Q3: Performance Glitch User + Sorting Test (30 Marks)
+### ⚙️ Q3: Performance Glitch User + Sorting Test...👍
 - Login with `performance_glitch_user`
 - Reset app state
 - Sort products (Z → A)
